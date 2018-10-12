@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yangtao.de/2018/10/12/2018%E5%B9%B410%E6%9C%8810%E6%97%A5%E6%97%B6%E9%97%B4%E6%B5%81/</loc>
+    
+    <lastmod>2018-10-12T07:19:45.554Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yangtao.de/tags/index.html</loc>
+    
+    <lastmod>2018-10-09T13:07:51.845Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yangtao.de/404.html</loc>
     
     <lastmod>2018-10-09T01:42:50.381Z</lastmod>
@@ -19,13 +33,6 @@
     <loc>http://yangtao.de/about/index.html</loc>
     
     <lastmod>2018-10-07T14:56:47.741Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yangtao.de/2018/10/07/hello-world/</loc>
-    
-    <lastmod>2018-10-07T05:15:17.663Z</lastmod>
     
   </url>
   
